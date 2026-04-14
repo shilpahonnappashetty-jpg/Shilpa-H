@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shilpa H</h1>
 <h3 align="center">Computer Science Engineer | Web Developer | Problem Solver</h3>
 
+<img align="right" alt= "coding" width="400" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
+
 ---
 
 ### 👩‍💻 About Me
