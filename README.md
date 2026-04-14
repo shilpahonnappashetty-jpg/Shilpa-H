@@ -1,11 +1,11 @@
- Hi 👋, I'm Shilpa H</h1>
-Computer Science Engineer | Web Developer | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Shilpa H</h1>
+<h3 align="center">Computer Science Engineer | Web Developer | Problem Solver</h3>
 
 ---
 
 ### 👩‍💻 About Me
 - 🎓 BE in Computer Science (VTU)
-- 💻 Skilled in HTML, CSS, JavaScript,SQL
+- 💻 Skilled in HTML, CSS, JavaScript, Python, SQL
 - 🏥 Built Hospital & Healthcare Management Systems
 - 🌱 Currently improving DSA & Full Stack Development
 - 📍 Bengaluru, India
@@ -13,7 +13,7 @@ Computer Science Engineer | Web Developer | Problem Solver</h3>
 ---
 
 ### 🛠️ Tech Stack
-HTML | CSS | JavaScript | SQL | C++ | Git | AWS
+HTML | CSS | JavaScript | Python | SQL | C++ | Git | AWS
 
 ---
 
